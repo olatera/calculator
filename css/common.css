@@ -1,0 +1,13 @@
+form{
+    margin: 40px 20px 30px 15px;
+}
+
+table{
+    width: 50%!important;
+}
+
+strong{
+    border: solid 1px;
+    padding: 5px;
+    margin: 5px;
+}
